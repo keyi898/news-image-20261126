@@ -1,5 +1,8 @@
 # The World in One Day — Thursday 26 November 2026
 
+[![rank](https://make.fun/badge/news-image-20261126/keyi898/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/keyi898/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 A single 1024×1024 image summing up the world's news reported on
 Thursday 26 November 2026, drawn from scratch with Python and Pillow
 (flat vector-style pictograms, no photographs, no copied artwork).
